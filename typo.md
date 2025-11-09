@@ -1,3 +1,3 @@
 # typo
 
-_n._ 排印错误（typographical error的缩写），排印师（typographer的缩写）
+abbr. 排印错误<details>（typographical error的缩写）</details>，排印师<details>（typographer的缩写）</details>
